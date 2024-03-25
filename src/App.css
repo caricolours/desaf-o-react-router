@@ -1,0 +1,23 @@
+.link-menu{
+    text-decoration: none;
+    color: white;
+}
+
+.link-menu:hover{
+    color: red;
+}
+.link-menu:active{
+    color: blueviolet;
+}
+
+.active {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-decoration: underline;
+}
+.card {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+}
+    
